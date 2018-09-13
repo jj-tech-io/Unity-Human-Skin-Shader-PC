@@ -2,14 +2,14 @@
 # Unity Separable Subsurface Scattering
 ## Features:
 * Realtime Post-processing SSS effects(Separable SSS)
-* Custom Shader supported(Stencil Based Post-Processing)
+* Custom Shader supported(Replacement Command Buffer)
 * Realtime color gradient calculations
 ## Guide:
-* Add "SeparableSubsurfaceScatter.cs" to the rendering camera and transform the options provided.
-* Add a custom shader material to your human skin renderer.
-* The custom shader should have a Stencil marked with "Ref 5", the post-processing component will use this mark.
-* Make sure the material's render queue is larger than any other material, for instance alphaTest or 2499 are suggested as queue.
-* Currently the effects only support forward rendering path.
+* Add "SSSCamera.cs" on the main camera
+* Add "SSSObject.cs" on the human model
+* Transform the options until you are satisify with the effects.
+* Please Do not use vertex displacement shader on human model!
+* We provide Jitter and noise to keep the sample's smoothness, so we suggest to have Temporal Anti-Alias on your rendering camera (For example Unity's Post-Processing Stack).
 
 ## FAQ:
 ### What shader should I use during making my own character?
@@ -21,6 +21,5 @@
 * Of course you can, we are currently using Disney diffuse and GGX specular for direct light calculation, obviously it is not the best solution for human's skin rendering. You can definitely try some more lighting formula and compare them, the post-processing component is compatible.
 
 ## Comming Soon:
-* Screen Space SSS for deferred shading rendering path (more efficiency, more effects supported).
 * Skin Transmission.
 * Provide more High definition skin shaders with exciting features.
