@@ -23,14 +23,14 @@ public static class SSSFunction
     public static void ClearBuffer(ref SkinRender skr)
     {
         skr.SubsurfaceBuffer.Clear();
-        skr.SubsurfaceBuffer.GetTemporaryRT(ShaderIDs._SceneColor, skr.RenderCamera.pixelWidth, skr.RenderCamera.pixelHeight, 0, FilterMode.Bilinear, RenderTextureFormat.DefaultHDR);
+        skr.SubsurfaceBuffer.GetTemporaryRT(ShaderIDs._SceneColor, skr.RenderCamera.pixelWidth, skr.RenderCamera.pixelHeight, 0, FilterMode.Point, RenderTextureFormat.DefaultHDR);
     }
 
     public static void SetKernel(ref SkinData data, List<Vector4> kernel)
     {
         Vector3 SSSC = new Vector3(data.SubsurfaceColor.r, data.SubsurfaceColor.g, data.SubsurfaceColor.b);
         Vector3 SSSFC = new Vector3(data.SubsurfaceFalloff.r, data.SubsurfaceFalloff.g, data.SubsurfaceFalloff.b);
-        SeparableSSS.CalculateKernel(kernel, 25, SSSC, SSSFC);
+        SeparableSSS.CalculateKernel(kernel, 11, SSSC, SSSFC);
     }
 
     public static void UpdateSubsurface(ref SkinRender skr, ref SkinData data, List<Vector4> kernelArray)

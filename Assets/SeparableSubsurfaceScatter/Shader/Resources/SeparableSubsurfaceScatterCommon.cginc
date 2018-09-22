@@ -1,7 +1,7 @@
 #include "UnityCG.cginc" 
 #define DistanceToProjectionWindow 5.671281819617709             //1.0 / tan(0.5 * radians(20));
 #define DPTimes300 1701.384545885313                             //DistanceToProjectionWindow * 300
-#define SamplerSteps 25
+#define SamplerSteps 11
 
 uniform float _SSSScale, _RandomNumber;
 uniform float4 _Kernel[SamplerSteps], _CameraDepthTexture_TexelSize;
@@ -29,12 +29,13 @@ float4 SSS(float4 SceneColor, float2 UV, float2 SSSIntencity) {
     BlurSceneColor.rgb *=  _Kernel[0].rgb;
     for (int i = 1; i < SamplerSteps; i++) {
         float2 currentUV = RANDOM((_ScreenParams.y * UV.y + UV.x) * _ScreenParams.x + _RandomNumber) * UVOffset;
-        float2 SSSUV = UV +  _Kernel[i].a * currentUV;
+        float4 kernelValue = _Kernel[i];
+        float2 SSSUV = UV +  kernelValue.a * currentUV;
         float4 SSSSceneColor = tex2D(_MainTex, SSSUV);
         float SSSDepth = LinearEyeDepth(SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, SSSUV)).r;         
         float SSSScale = saturate(DPTimes300 * SSSIntencity * abs(SceneDepth - SSSDepth));
         SSSSceneColor.rgb = lerp(SSSSceneColor.rgb, SceneColor.rgb, SSSScale);
-        BlurSceneColor.rgb +=  _Kernel[i].rgb * SSSSceneColor.rgb;
+        BlurSceneColor.rgb +=  kernelValue.rgb * SSSSceneColor.rgb;
     }
     return BlurSceneColor;
     //return float4(UVOffset, 0, 1);
