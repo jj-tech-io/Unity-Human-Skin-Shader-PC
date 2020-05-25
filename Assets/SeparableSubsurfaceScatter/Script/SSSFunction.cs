@@ -22,6 +22,11 @@ public static class SSSFunction
 
     public static void ClearBuffer(ref SkinRender skr)
     {
+        if (skr.SubsurfaceBuffer == null)
+        {
+            return;
+        }
+        
         skr.SubsurfaceBuffer.Clear();
         skr.SubsurfaceBuffer.GetTemporaryRT(ShaderIDs._SceneColor, skr.RenderCamera.pixelWidth, skr.RenderCamera.pixelHeight, 0, FilterMode.Point, RenderTextureFormat.DefaultHDR);
     }

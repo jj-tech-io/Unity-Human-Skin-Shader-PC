@@ -4,7 +4,7 @@ using UnityEngine;
 public class SSSObject : MonoBehaviour {
     private List<Vector4> kernel = new List<Vector4>(11);
     public SkinData data;
-	// Use this for initialization
+    
 	private void Awake () {
         data.renderer = GetComponent<Renderer>();
         SSSFunction.SetKernel(ref data, kernel);
@@ -12,6 +12,11 @@ public class SSSObject : MonoBehaviour {
 
     private void OnWillRenderObject()
     {
-        SSSFunction.UpdateSubsurface(ref SSSCamera.currentSkr, ref data, kernel);
+        var skinRenderer = SSSCamera.currentSkr;
+        if (skinRenderer.RenderCamera == null)
+        {
+            return;
+        }
+        SSSFunction.UpdateSubsurface(ref skinRenderer, ref data, kernel);
     }
 }
