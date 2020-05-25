@@ -293,7 +293,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1846230717}
   - component: {fileID: 1846230716}
-  - component: {fileID: 1846230715}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -301,29 +300,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1846230715
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1846230714}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a323e2ffb6f256e42a2517639174a6da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  KEEP_PCSS_ONDISABLE: 1
-  EARLY_BAILOUT_OPTIMIZATION: 1
-  SAMPLERS_COUNT: 0
-  GLOBAL_SOFTNESS: 0.05
-  CASCADES_BLENDING: 1
-  CASCADES_BLENDING_VALUE: 2
-  NOISE_STATIC: 0
-  NOISE_SCALE_VALUE: 1
-  PCSS_ENABLED: 1
-  PCSS_SOFTNESS_MIN: 1
-  PCSS_SOFTNESS_MAX: 2
 --- !u!108 &1846230716
 Light:
   m_ObjectHideFlags: 0
@@ -413,7 +389,6 @@ GameObject:
   - component: {fileID: 1957278623}
   - component: {fileID: 1957278617}
   - component: {fileID: 1957278616}
-  - component: {fileID: 1957278620}
   - component: {fileID: 1957278619}
   - component: {fileID: 1957278618}
   m_Layer: 8
@@ -529,18 +504,6 @@ MonoBehaviour:
   m_BeforeTransparentBundles: []
   m_BeforeStackBundles: []
   m_AfterStackBundles: []
---- !u!114 &1957278620
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1957278615}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 45cb591d32663894e9fdea13e6ed2c25, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!81 &1957278623
 AudioListener:
   m_ObjectHideFlags: 0
