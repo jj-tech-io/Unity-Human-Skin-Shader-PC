@@ -1,10 +1,10 @@
-![SSS](SSS.png)
+![SSS Example](Documentation/SSS-Example.png)
 # Unity Separable Subsurface Scattering
-[![Unity 2019.3 or later](https://img.shields.io/badge/unity-2019.3%20or%20later-green.svg?logo=unity&cacheSeconds=2592000)](https://unity3d.com/get-unity/download/archive)
+[![Unity 2021.3](https://img.shields.io/badge/unity-tested%20up%20to%202021.3-green.svg?logo=unity&cacheSeconds=2592000)](https://unity3d.com/get-unity/download/archive)
 
 ## Features:
 * Realtime Post-processing SSS effects(Separable SSS)
-* Custom Shader supported(Replacement Command Buffer)
+* Custom Shader supported (Replacement Command Buffer)
 * Realtime color gradient calculations
 ## Guide:
 * Add "SSSCamera.cs" on the main camera
@@ -23,9 +23,5 @@
 ### Can I make more improvement based on SSSSS?
 * Of course you can, we are currently using Disney diffuse and GGX specular for direct light calculation, obviously it is not the best solution for human's skin rendering. You can definitely try some more lighting formula and compare them, the post-processing component is compatible.
 ### Unity Version
-Current Version: `Unity 2019.3.13f1`. Supports Unity 2018, 2019 and probably will support newer unity versions as well.  
+Current Version: `Unity 2021.3.16f1`. Supports Unity 2018, 2019, 2020, 2021 and probably will support newer unity versions as well.  
 For Unity 2018 you will need to remove `"com.unity.ugui": "1.0.0",` and `"com.unity.modules.androidjni": "1.0.0",` from `Packages/manifest.json`.
-
-## Coming Soon:
-* Skin Transmission.
-* Provide more High definition skin shaders with exciting features.
