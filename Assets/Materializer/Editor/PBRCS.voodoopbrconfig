@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Materials>
+  <Material Name="Moss">
+    <Variant Name="Moss 1" Alpha="1.0" Position="0" Albedo="0.85" Specular="0.15" Gloss="9.999" Metallic="-4" Normal_Max="2.0" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="55,83,11,255" />
+  </Material>
+  <Material Name="Alien">
+    <Variant Name="Alien Skin 1" Alpha="1.0" Position="0" Albedo="0.51" Specular="0.49" Gloss="0.128" Metallic="1.734" Normal_Max="2.0" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="55,83,11,255" />
+    <Variant Name="Alien Skin 2" Alpha="1.0" Position="1" Albedo="0.51" Specular="0.49" Gloss="4" Metallic="0.25" Normal_Max="2.0" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="55,83,11,255" />
+    <Variant Name="Alien Skin 3" Alpha="1.0" Position="2" Albedo="0.51" Specular="0.49" Gloss="3" Metallic="0.5" Normal_Max="2.0" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="55,83,11,255" />
+  </Material>
+  <Material Name="Aluminium">
+    <Variant Name="Aluminium 1" Alpha="1.0" Position="0" Albedo="0.65" Specular="0.35" Gloss="0.78" Metallic="1.34" Normal_Max="4.0" AO="1.0" RoughnessBrush="11" RoughLerp="0.2" BaseColor="255,0,0,255" BaseAlbedo="209,220,227,255" />
+    <Variant Name="Aluminium 2" Alpha="1.0" Position="1" Albedo="0.65" Specular="0.35" Gloss="0.8" Metallic="1.424" Normal_Max="0.01" AO="1.0" RoughnessBrush="11" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="209,220,227,255" />
+    <Variant Name="Aluminium 3" Alpha="1.0" Position="2" Albedo="0.65" Specular="0.35" Gloss="0.7" Metallic="1.2" Normal_Max="4.0" AO="1.0" RoughnessBrush="11" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="209,220,227,255" />
+  </Material>
+  <Material Name="Armor">
+    <Variant Name="Armor 1" Alpha="1.0" Position="0" Albedo="0.4" Specular="0.6" Gloss="4" Metallic="0.34" Normal_Max="2.0" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="252,250,247,255" />
+    <Variant Name="Armor 2" Alpha="1.0" Position="1" Albedo="0.4" Specular="0.6" Gloss="0.85" Metallic="1.35" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="252,250,247,255" />
+    <Variant Name="Armor 3" Alpha="1.0" Position="2" Albedo="0.75" Specular="0.25" Gloss="1.5" Metallic="1.35" Normal_Max="4" AO="1.0" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="106,100,88,255" />
+  </Material>
+  <Material Name="Asphalt">
+    <Variant Name="Asphalt 1" Alpha="1.0" Position="0" Albedo="0.98" Specular="0.02" Gloss="2.0" Metallic="0.0" Normal_Max="2.0" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="70,75,76,255" />
+    <Variant Name="Asphalt 2" Alpha="1.0" Position="1" Albedo="0.98" Specular="0.02" Gloss="2.0" Metallic="0.0" Normal_Max="2.0" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="70,75,76,255" />
+    <Variant Name="Asphalt 3" Alpha="1.0" Position="2" Albedo="0.91" Specular="0.01" Gloss="2.0" Metallic="0.0" Normal_Max="2.0" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="45,48,48,255" />
+  </Material>
+  <Material Name="Bone">
+    <Variant Name="Bone 1" Alpha="1.0" Position="0" Albedo="0.64" Specular="0.36" Gloss="5.45" Metallic="-299" Normal_Max="2" AO="0.5" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="170,157,139,255" />
+    <Variant Name="Bone 2" Alpha="1.0" Position="1" Albedo="0.85" Specular="0.15" Gloss="9.99" Metallic="-2" Normal_Max="2" AO="0.25" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="207,206,198,255" />
+    <Variant Name="Bone 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.2" Gloss="9.99" Metallic="-299" Normal_Max="0.5" AO="0.5" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="185,176,158,255" />
+  </Material>
+  <Material Name="Bronze">
+    <Variant Name="Bronze 1" Alpha="1.0" Position="0" Albedo="0.6" Specular="0.6" Gloss="0.6" Metallic="1.35" Normal_Max="2.0" AO="1.0" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="120,86,0,255" />
+    <Variant Name="Bronze 2" Alpha="1.0" Position="1" Albedo="0.6" Specular="0.6" Gloss="0.6" Metallic="1.35" Normal_Max="2.0" AO="1.0" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="157,86,0,255" />
+    <Variant Name="Bronze 3" Alpha="1.0" Position="2" Albedo="0.6" Specular="0.6" Gloss="0.6" Metallic="1.35" Normal_Max="2.0" AO="1.0" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="157,126,0,255" />
+  </Material>
+  <Material Name="Carbon">
+    <Variant Name="Carbon 1" Alpha="1.0" Position="0" Albedo="0.9" Specular="0.1" Gloss="0.9" Metallic="0.1" Normal_Max="0.01" AO="1.0" RoughnessBrush="10" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="50,50,50,255" />
+    <Variant Name="Carbon 2" Alpha="1.0" Position="1" Albedo="0.9" Specular="0.1" Gloss="0.1" Metallic="0.1" Normal_Max="0.01" AO="1.0" RoughnessBrush="10" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="50,50,50,255" />
+    <Variant Name="Carbon 3" Alpha="1.0" Position="2" Albedo="0.9" Specular="0.1" Gloss="0.999" Metallic="0.1" Normal_Max="0.01" AO="1.0" RoughnessBrush="10" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="60,60,60,255" />
+  </Material>
+  <Material Name="Cardboard">
+    <Variant Name="Cardboard 1" Alpha="1.0" Position="0" Albedo="0.99" Specular="0.01" Gloss="0.999" Metallic="-0.2" Normal_Max="0.01" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="193,147,129,255" />
+    <Variant Name="Cardboard 2" Alpha="1.0" Position="1" Albedo="0.99" Specular="0.01" Gloss="0.999" Metallic="-0.2" Normal_Max="0.4" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="193,147,129,255" />
+    <Variant Name="Cardboard 3" Alpha="1.0" Position="2" Albedo="0.99" Specular="0.01" Gloss="1.2" Metallic="-0.6" Normal_Max="0.4" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="148,115,83,255" />
+  </Material>
+  <Material Name="Cloth">
+    <Variant Name="Cloth 1" Alpha="1.0" Position="0" Albedo="0.999" Specular="0.001" Gloss="0.8" Metallic="-0.8" Normal_Max="0.8" AO="1.0" RoughnessBrush="1" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="199,200,152,255" />
+    <Variant Name="Cloth 2" Alpha="1.0" Position="1" Albedo="0.999" Specular="0.001" Gloss="0.8" Metallic="-0.8" Normal_Max="0.8" AO="1.0" RoughnessBrush="1" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="85,115,155,255" />
+    <Variant Name="Cloth 3" Alpha="1.0" Position="2" Albedo="0.999" Specular="0.001" Gloss="0.8" Metallic="-0.8" Normal_Max="0.8" AO="1.0" RoughnessBrush="1" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="100,100,100,255" />
+  </Material>
+  <Material Name="Concrete">
+    <Variant Name="Concrete 1" Alpha="1.0" Position="0" Albedo="0.8" Specular="0.2" Gloss="0.8" Metallic="-0.8" Normal_Max="2.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="128,127,120,255" />
+    <Variant Name="Concrete 2" Alpha="1.0" Position="1" Albedo="0.8" Specular="0.2" Gloss="0.8" Metallic="-0.8" Normal_Max="2.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="128,127,120,255" />
+    <Variant Name="Concrete 3" Alpha="1.0" Position="2" Albedo="0.8" Specular="0.2" Gloss="0.8" Metallic="-0.8" Normal_Max="2.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="128,127,120,255" />
+  </Material>
+  <Material Name="Copper">
+    <Variant Name="Copper 1" Alpha="1.0" Position="0" Albedo="0.25" Specular="0.75" Gloss="0.8" Metallic="1.5" Normal_Max="2.0" AO="1.0" RoughnessBrush="17" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="243,162,137,255" />
+    <Variant Name="Copper 2" Alpha="1.0" Position="1" Albedo="0.25" Specular="0.75" Gloss="0.8" Metallic="1.5" Normal_Max="4.0" AO="1.0" RoughnessBrush="17" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="243,162,137,255" />
+    <Variant Name="Copper 3" Alpha="1.0" Position="2" Albedo="0.25" Specular="0.75" Gloss="0.8" Metallic="1.5" Normal_Max="4.0" AO="1.0" RoughnessBrush="17" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="243,162,137,255" />
+  </Material>
+  <Material Name="Damascus">
+    <Variant Name="Damascus 1" Alpha="1.0" Position="0" Albedo="0.45" Specular="0.55" Gloss="0.6" Metallic="0.6" Normal_Max="10.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="162,162,162,255" />
+    <Variant Name="Damascus 2" Alpha="1.0" Position="1" Albedo="0.45" Specular="0.55" Gloss="0.6" Metallic="0.6" Normal_Max="10.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="162,162,162,255" />
+    <Variant Name="Damascus 3" Alpha="1.0" Position="2" Albedo="0.45" Specular="0.55" Gloss="0.6" Metallic="0.6" Normal_Max="10.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="162,162,162,255" />
+  </Material>
+  <Material Name="Dirt">
+    <Variant Name="Dirt 1" Alpha="1.0" Position="0" Albedo="0.999" Specular="0.001" Gloss="1.0" Metallic="-0.4" Normal_Max="4.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="146,116,68,255" />
+    <Variant Name="Dirt 2" Alpha="1.0" Position="1" Albedo="0.999" Specular="0.001" Gloss="1.0" Metallic="-0.6" Normal_Max="2.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="116,131,91,255" />
+    <Variant Name="Dirt 3" Alpha="1.0" Position="2" Albedo="0.999" Specular="0.001" Gloss="1.0" Metallic="-0.8" Normal_Max="8.0" AO="1.0" RoughnessBrush="7" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="169,146,115,255" />
+  </Material>
+  <Material Name="Enamel">
+    <Variant Name="Enamel 1" Alpha="1.0" Position="0" Albedo="0.7" Specular="0.9" Gloss="0.001" Metallic="0.03" Normal_Max="1.1" AO="1.0" RoughnessBrush="22" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="156,156,156,255" />
+    <Variant Name="Enamel 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.9" Gloss="0.001" Metallic="0.03" Normal_Max="1.1" AO="1.0" RoughnessBrush="22" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="156,156,156,255" />
+    <Variant Name="Enamel 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.9" Gloss="0.001" Metallic="0.03" Normal_Max="1.1" AO="1.0" RoughnessBrush="22" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="156,156,156,255" />
+  </Material>
+  <Material Name="Gold">
+    <Variant Name="Gold 1" Alpha="1.0" Position="0" Albedo="0.5" Specular="0.5" Gloss="0.4" Metallic="1.724" Normal_Max="2.1" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="173,177,53,255" />
+    <Variant Name="Gold 2" Alpha="1.0" Position="1" Albedo="0.5" Specular="0.5" Gloss="0.4" Metallic="1.724" Normal_Max="4.1" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="255,219,147,255" />
+    <Variant Name="Gold 3" Alpha="1.0" Position="2" Albedo="0.5" Specular="0.5" Gloss="0.4" Metallic="1.724" Normal_Max="10.1" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="255,219,147,255" />
+  </Material>
+  <Material Name="Gravel">
+    <Variant Name="Gravel 1" Alpha="1.0" Position="0" Albedo="0.9" Specular="0.1" Gloss="1.5" Metallic="-0.2" Normal_Max="1.1" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="107,106,103,255" />
+    <Variant Name="Gravel 2" Alpha="1.0" Position="1" Albedo="0.9" Specular="0.1" Gloss="1.5" Metallic="-0.2" Normal_Max="1.1" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="146,136,133,255" />
+    <Variant Name="Gravel 3" Alpha="1.0" Position="2" Albedo="0.9" Specular="0.1" Gloss="1.5" Metallic="-0.2" Normal_Max="1.1" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="107,106,103,255" />
+  </Material>
+  <Material Name="Iron">
+    <Variant Name="Iron 1" Alpha="1.0" Position="0" Albedo="0.3" Specular="0.7" Gloss="2.0" Metallic="0.56" Normal_Max="8" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="36,34,33,255" />
+    <Variant Name="Iron 2" Alpha="1.0" Position="1" Albedo="0.3" Specular="0.7" Gloss="2.0" Metallic="0.56" Normal_Max="8" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="36,34,33,255" />
+    <Variant Name="Iron 3" Alpha="1.0" Position="2" Albedo="0.3" Specular="0.7" Gloss="2.0" Metallic="0.56" Normal_Max="8" AO="1.0" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="36,34,33,255" />
+  </Material>
+  <Material Name="Lead">
+    <Variant Name="Lead 1" Alpha="1.0" Position="0" Albedo="0.2" Specular="0.8" Gloss="0.67" Metallic="0.56" Normal_Max="10" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="99,127,137,255" />
+    <Variant Name="Lead 2" Alpha="1.0" Position="1" Albedo="0.2" Specular="0.8" Gloss="0.67" Metallic="0.56" Normal_Max="10" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="99,127,137,255" />
+    <Variant Name="Lead 3" Alpha="1.0" Position="2" Albedo="0.2" Specular="0.8" Gloss="0.67" Metallic="0.56" Normal_Max="10" AO="1.0" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="99,127,137,255" />
+  </Material>
+  <Material Name="Leather">
+    <Variant Name="Leather 1" Alpha="1.0" Position="0" Albedo="0.6" Specular="0.4" Gloss="8" Metallic="-200" Normal_Max="1" AO="0.25" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="146,132,108,255" />
+    <Variant Name="Leather 2" Alpha="1.0" Position="1" Albedo="0.8" Specular="0.2" Gloss="7" Metallic="-200" Normal_Max="0.125" AO="0.25" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="195,145,79,255" />
+    <Variant Name="Leather 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.3" Gloss="6" Metallic="-200" Normal_Max="1" AO="0.25" RoughnessBrush="5" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="161,84,57,255" />
+  </Material>
+  <Material Name="Marble">
+    <Variant Name="Marble 1" Alpha="1.0" Position="0" Albedo="0.8" Specular="0.2" Gloss="0.45" Metallic="-0.2" Normal_Max="10" AO="1.0" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="55,75,55,255" />
+    <Variant Name="Marble 2" Alpha="1.0" Position="1" Albedo="0.8" Specular="0.2" Gloss="0.45" Metallic="-0.2" Normal_Max="10" AO="1.0" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="55,75,55,255" />
+    <Variant Name="Marble 3" Alpha="1.0" Position="2" Albedo="0.8" Specular="0.2" Gloss="0.45" Metallic="-0.2" Normal_Max="10" AO="1.0" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="55,75,55,255" />
+  </Material>
+  <Material Name="Masonry">
+    <Variant Name="Masonry 1" Alpha="1.0" Position="0" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="1.25" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="103,91,67,255" />
+    <Variant Name="Masonry 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="0.5" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="75,79,78,255" />
+    <Variant Name="Masonry 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="0.75" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="137,131,133,255" />
+  </Material>
+  <Material Name="Plastic">
+    <Variant Name="Plastic 1" Alpha="1.0" Position="0" Albedo="0.6" Specular="0.2" Gloss="0.2" Metallic="-200" Normal_Max="0.25" AO="1.0" RoughnessBrush="18" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="190,190,190,255" />
+  </Material>
+  <Material Name="Rubber">
+    <Variant Name="Rubber 1" Alpha="1.0" Position="0" Albedo="0.8" Specular="0.2" Gloss="1.98" Metallic="-200" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="13,13,13,255" />
+    <Variant Name="Rubber 2" Alpha="1.0" Position="1" Albedo="0.8" Specular="0.2" Gloss="1.98" Metallic="-200" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="13,13,13,255" />
+    <Variant Name="Rubber 3" Alpha="1.0" Position="2" Albedo="0.8" Specular="0.2" Gloss="1.98" Metallic="-200" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="13,13,13,255" />
+  </Material>
+  <Material Name="Scales">
+    <Variant Name="Scales 1" Alpha="1.0" Position="0" Albedo="0.8" Specular="0.2" Gloss="0.5" Metallic="-200" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="32,35,43,255" />
+    <Variant Name="Scales 2" Alpha="1.0" Position="1" Albedo="0.8" Specular="0.2" Gloss="0.5" Metallic="0.2" Normal_Max="0.25" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="45,46,47,255" />
+    <Variant Name="Scales 3" Alpha="1.0" Position="2" Albedo="0.8" Specular="0.2" Gloss="1.4" Metallic="0.01" Normal_Max="0.0125" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="83,67,54,255" />
+  </Material>
+  <Material Name="Silver">
+    <Variant Name="Silver 1" Alpha="1.0" Position="0" Albedo="0.4" Specular="0.6" Gloss="0.45" Metallic="0.34" Normal_Max="2.0" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="252,250,247,255" />
+    <Variant Name="Silver 2" Alpha="1.0" Position="1" Albedo="0.6" Specular="0.4" Gloss="0.45" Metallic="0.34" Normal_Max="2.0" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="252,250,247,255" />
+    <Variant Name="Silver 3" Alpha="1.0" Position="2" Albedo="0.5" Specular="0.5" Gloss="0.45" Metallic="0.34" Normal_Max="2.0" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="252,250,247,255" />
+  </Material>
+  <Material Name="Skin">
+    <Variant Name="Skin 1" Alpha="1.0" Position="0" Albedo="0.98" Specular="0.02" Gloss="4.4" Metallic="-4.0" Normal_Max="0.02" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="200,154,128,255" />
+    <Variant Name="Skin 2" Alpha="1.0" Position="1" Albedo="0.9" Specular="0.1" Gloss="4" Metallic="-4.0" Normal_Max="2" AO="1.0" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="200,96,110,255" />
+    <Variant Name="Skin 3" Alpha="1.0" Position="2" Albedo="0.98" Specular="0.02" Gloss="4.4" Metallic="-4.0" Normal_Max="0.02" AO="0.889" RoughnessBrush="20" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="145,106,91,255" />
+  </Material>
+  <Material Name="Steel">
+    <Variant Name="Steel 1" Alpha="1.0" Position="0" Albedo="0.2" Specular="0.4" Gloss="0.342" Metallic="0.4" Normal_Max="6.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="103,103,103,255" />
+    <Variant Name="Steel 2" Alpha="1.0" Position="1" Albedo="0.2" Specular="0.4" Gloss="0.342" Metallic="0.4" Normal_Max="6.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="103,103,103,255" />
+    <Variant Name="Steel 3" Alpha="1.0" Position="2" Albedo="0.2" Specular="0.4" Gloss="0.342" Metallic="0.4" Normal_Max="6.0" AO="1.0" RoughnessBrush="19" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="103,103,103,255" />
+  </Material>
+  <Material Name="Stone">
+    <Variant Name="Stone 1" Alpha="1.0" Position="0" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="0.5" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="103,91,67,255" />
+    <Variant Name="Stone 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="0.5" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="75,79,78,255" />
+    <Variant Name="Stone 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.3" Gloss="0.99" Metallic="-200" Normal_Max="0.75" AO="0.25" RoughnessBrush="12" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="137,131,133,255" />
+  </Material>
+  <Material Name="Suede">
+    <Variant Name="Suede 1" Alpha="1.0" Position="0" Albedo="0.9" Specular="0.1" Gloss="4" Metallic="-200" Normal_Max="1.5" AO="0.25" RoughnessBrush="18" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="155,127,99,255" />
+  </Material>
+  <Material Name="Tile">
+    <Variant Name="Tile 1" Alpha="1.0" Position="0" Albedo="0.4" Specular="0.6" Gloss="0.1" Metallic="-200" Normal_Max="1" AO="1" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="221,221,221,255" />
+    <Variant Name="Tile 2" Alpha="1.0" Position="1" Albedo="0.5" Specular="0.5" Gloss="0.4" Metallic="-200" Normal_Max="0.125" AO="0.25" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="221,221,221,255" />
+    <Variant Name="Tile 3" Alpha="1.0" Position="2" Albedo="0.8" Specular="0.2" Gloss="0.1" Metallic="-200" Normal_Max="2" AO="0.5" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="221,221,221,255" />
+    <Variant Name="Tile 4" Alpha="1.0" Position="3" Albedo="0.4" Specular="0.6" Gloss="0.1" Metallic="-200" Normal_Max="1" AO="1" RoughnessBrush="8" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="221,221,221,255" />
+  </Material>
+  <Material Name="Tin">
+    <Variant Name="Tin 1" Alpha="1.0" Position="0" Albedo="0.7" Specular="0.3" Gloss="1.99" Metallic="0.1" Normal_Max="6" AO="0.4" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="126,126,126,255" />
+    <Variant Name="Tin 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.3" Gloss="1.99" Metallic="0.1" Normal_Max="6" AO="0.4" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="126,126,126,255" />
+    <Variant Name="Tin 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.3" Gloss="1.99" Metallic="0.1" Normal_Max="6" AO="0.4" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="126,126,126,255" />
+  </Material>
+  <Material Name="Walls">
+    <Variant Name="Walls 1" Alpha="1.0" Position="0" Albedo="0.7" Specular="0.3" Gloss="4" Metallic="-299" Normal_Max="0.125" AO="0.4" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="206,202,191,255" />
+    <Variant Name="Walls 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.3" Gloss="4" Metallic="-299" Normal_Max="0.125" AO="0.4" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="206,202,191,255" />
+    <Variant Name="Walls 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.3" Gloss="4" Metallic="-299" Normal_Max="0.125" AO="0.4" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="206,202,191,255" />
+  </Material>
+  <Material Name="Wood">
+    <Variant Name="Wood 1" Alpha="1.0" Position="0" Albedo="0.9" Specular="0.1" Gloss="9.99" Metallic="-299" Normal_Max="5" AO="0.5" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="98,74,53,255" />
+    <Variant Name="Wood 2" Alpha="1.0" Position="1" Albedo="0.7" Specular="0.3" Gloss="9.99" Metallic="-2" Normal_Max="3" AO="0.75" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="100,58,35,255" />
+    <Variant Name="Wood 3" Alpha="1.0" Position="2" Albedo="0.7" Specular="0.2" Gloss="9.99" Metallic="-299" Normal_Max="1" AO="0.5" RoughnessBrush="4" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="177,112,61,255" />
+  </Material>
+  <Material Name="Glass">
+    <Variant Name="Glass 1" Alpha="0.01" Position="0" Albedo="0.4" Specular="0.6" Gloss="0.4" Metallic="-299" Normal_Max="3" AO="1" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="216,239,247,255" />
+    <Variant Name="Glass 2" Alpha="0.1" Position="1" Albedo="0.4" Specular="0.6" Gloss="0.4" Metallic="-299" Normal_Max="0.5" AO="1" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="216,239,247,255" />
+    <Variant Name="Glass 3" Alpha="0.01" Position="2" Albedo="0.4" Specular="0.6" Gloss="0.4" Metallic="-299" Normal_Max="3" AO="1" RoughnessBrush="2" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="216,239,247,255" />
+  </Material>
+  <Material Name="Bark">
+    <Variant Name="Bark 1" Alpha="1.0" Position="0" Albedo="0.999" Specular="0.001" Gloss="9999.99" Metallic="-299" Normal_Max="0.001" AO="0.85" RoughnessBrush="2" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="98,80,56,255" />
+    <Variant Name="Bark 2" Alpha="1.0" Position="1" Albedo="0.999" Specular="0.001" Gloss="9999.99" Metallic="-299" Normal_Max="0.001" AO="0.85" RoughnessBrush="2" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="98,80,56,255" />
+    <Variant Name="Bark 3" Alpha="1.0" Position="2" Albedo="0.999" Specular="0.001" Gloss="9999.99" Metallic="-299" Normal_Max="0.001" AO="0.85" RoughnessBrush="2" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="98,80,56,255" />
+  </Material>
+  <Material Name="Denim">
+    <Variant Name="Denim 1" Alpha="1.0" Position="0" Albedo="0.82" Specular="0.16" Gloss="10.0" Metallic="-300" Normal_Max="4.6" AO="0.85" RoughnessBrush="9" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="4,83,161,255" />
+    <Variant Name="Denim 2" Alpha="1.0" Position="0" Albedo="0.82" Specular="0.16" Gloss="10.0" Metallic="-300" Normal_Max="4.6" AO="0.85" RoughnessBrush="9" RoughLerp="0.2" BaseColor="0,0,0,255" BaseAlbedo="86,136,186,255" />
+    <Variant Name="Denim 3" Alpha="1.0" Position="0" Albedo="0.82" Specular="0.16" Gloss="10.0" Metallic="-300" Normal_Max="4.6" AO="0.85" RoughnessBrush="9" RoughLerp="0.2" BaseColor="122,122,122,255" BaseAlbedo="17,17,17,255" />
+  </Material>
+  <Material Name="Blood">
+    <Variant Name="Blood 1" Alpha="1.0" Position="0" Albedo="0.82" Specular="0.16" Gloss="10.0" Metallic="-300" Normal_Max="4.6" AO="0.85" RoughnessBrush="9" RoughLerp="0.2" BaseColor="255,255,255,255" BaseAlbedo="4,83,161,255" />
+  </Material>  
+</Materials>

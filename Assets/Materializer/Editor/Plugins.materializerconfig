@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plugins>
+  <Plugin Name="Alien" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="alien,organic,skin,armor">
+  </Plugin>
+  <Plugin Name="Aluminium" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="aluminium,metal,silver,shine">
+  </Plugin>
+  <Plugin Name="Armor" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="armor,chain,plate,silver,metal">
+  </Plugin>
+  <Plugin Name="Asphalt" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="asphalt,ground,floor,dirt,rock">
+  </Plugin>
+  <Plugin Name="Bark" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="bark,organic,tree,nature">
+  </Plugin>
+  <Plugin Name="Blood" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="blood,organic,effects">
+  </Plugin>
+  <Plugin Name="Bone" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="bone,organic,skeleton">
+  </Plugin>
+  <Plugin Name="Bronze" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="bronze,metal,red,orange">
+  </Plugin>
+  <Plugin Name="Carbon" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="carbon,manmade,fiber,car,synthetic">
+  </Plugin>
+  <Plugin Name="Cardboard" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="cardboard,paper,organic">
+  </Plugin>
+  <Plugin Name="Checkerboard" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="checkerboard">
+  </Plugin>
+  <Plugin Name="Chipping" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="chipping,effects">
+  </Plugin>
+  <Plugin Name="Cloth" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="cloth,shirt,pants">
+  </Plugin>
+  <Plugin Name="Concrete" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="concrete,rock,dirt,ground">
+  </Plugin>
+  <Plugin Name="Copper" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="copper,metal,plate,shine,red,orange">
+  </Plugin>
+  <Plugin Name="Damascus" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="damascus,steel,metal,shine">
+  </Plugin>
+  <Plugin Name="Debugger" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="debugger">
+  </Plugin>
+  <Plugin Name="Denim" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="denim,pants,cloth">
+  </Plugin>
+  <Plugin Name="Dirt" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="dirt,dust,mud">
+  </Plugin>
+  <Plugin Name="Dust" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="dust,dirt,effects">
+  </Plugin>
+  <Plugin Name="Edge_Wear" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="edge,ware">
+  </Plugin>
+  <Plugin Name="Enamel" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="enamel,paint,synthetic">
+  </Plugin>
+  <Plugin Name="Fingerprints" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="fingerprints,oil,organic,effects">
+  </Plugin>
+  <Plugin Name="Gold" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="gold,metal,shine,yellow">
+  </Plugin>
+  <Plugin Name="Hieroglyphs" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="hieroglyphs,stone,etch">
+  </Plugin>
+  <Plugin Name="Iron" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="iron,metal,dark">
+  </Plugin>
+  <Plugin Name="Lead" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="lead,metal,dark">
+  </Plugin>
+  <Plugin Name="Leather" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="leather,organic,clothing,furniture">
+  </Plugin>
+  <Plugin Name="Lichen" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="lichen,organic,tree,effects">
+  </Plugin>
+  <Plugin Name="Marble" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="marble,stone,granite,rock,shine,floor,statue">
+  </Plugin>
+  <Plugin Name="Masonry" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="masonry,stone,ground,floor,rock,dirt">
+  </Plugin>
+  <Plugin Name="Normal" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="normal,effects,height,depth">
+  </Plugin>
+  <Plugin Name="Oil" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="Oil,effects">
+  </Plugin>
+  <Plugin Name="Plastic" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="plastic,synthetic">
+  </Plugin>
+  <Plugin Name="Rivets" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="rivets,metal,construction,steel">
+  </Plugin>
+  <Plugin Name="Rubber" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="rubber,plastic">
+  </Plugin>
+  <Plugin Name="Rust" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="rust,organic,grime,grunge,effects">
+  </Plugin>
+  <Plugin Name="Scales" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="scales,armor,organic,dragon,lizard">
+  </Plugin>
+  <Plugin Name="Scorch" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="scorch,efect,blast,fire,smoke,grunge,effects">
+  </Plugin>
+  <Plugin Name="Skin" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="skin,organic,human">
+  </Plugin>
+  <Plugin Name="Silver" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="silver,metal,shine,white">
+  </Plugin>
+  <Plugin Name="Steel" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="steel,metal,construction">
+  </Plugin>
+  <Plugin Name="Stone" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="stone,rock,boulder,mountain">
+  </Plugin>
+  <Plugin Name="Suede" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="suede,leather,organic,shoe,cloth,pants,shirt">
+  </Plugin>
+  <Plugin Name="Tile" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="tile,wall,foor,shine">
+  </Plugin>
+  <Plugin Name="Tin" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="tin,metal,dull,dark,antique">
+  </Plugin>
+  <Plugin Name="Walls" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="walls,plaster,drywall,stucco">
+  </Plugin>
+  <Plugin Name="Wood" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="wood,organic,stick,floor,wall,ground">
+  </Plugin>
+  <Plugin Name="Moss" Variants="3" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="wood,organic,stick,floor,wall,ground">
+  </Plugin>
+  <Plugin Name="Blood" Variants="6" Author="John Rossitter @MaterializerPBR" Version="1.0" Description="Generates " Keywords="blood,organic,red">
+  </Plugin>  
+</Plugins>

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Brushes>
+  <Brush Name="Alien_1" Pow="2048">
+  </Brush>
+  <Brush Name="Alien_2" Pow="2048">
+  </Brush>
+  <Brush Name="Alien_3" Pow="2048">
+  </Brush>
+  <Brush Name="Statue_1" Pow="2048">
+  </Brush>
+  <Brush Name="Denim_1" Pow="2048">
+  </Brush>
+  <Brush Name="Denim_2" Pow="2048">
+  </Brush>
+  <Brush Name="Denim_3" Pow="2048">
+  </Brush>
+  <Brush Name="Bone_1" Pow="2048">
+  </Brush>
+  <Brush Name="Bone_2" Pow="2048">
+  </Brush>
+  <Brush Name="Bone_3" Pow="2048">
+  </Brush>
+  <Brush Name="Armor_1" Pow="2048">
+  </Brush>
+  <Brush Name="Armor_2" Pow="2048">
+  </Brush>
+  <Brush Name="Armor_3" Pow="2048">
+  </Brush>
+  <Brush Name="Enamel_1" Pow="2048">
+  </Brush>
+  <Brush Name="Enamel_2" Pow="2048">
+  </Brush>
+  <Brush Name="Enamel_3" Pow="2048">
+  </Brush>
+  <Brush Name="Walls_1" Pow="2048">
+  </Brush>
+  <Brush Name="Walls_2" Pow="2048">
+  </Brush>
+  <Brush Name="Walls_3" Pow="2048">
+  </Brush>
+  <Brush Name="Dirt_1" Pow="2048">
+  </Brush>
+  <Brush Name="Dirt_2" Pow="2048">
+  </Brush>
+  <Brush Name="Dirt_3" Pow="2048">
+  </Brush>
+  <Brush Name="Marble_1" Pow="2048">
+  </Brush>
+  <Brush Name="Marble_2" Pow="2048">
+  </Brush>
+  <Brush Name="Marble_3" Pow="2048">
+  </Brush>
+  <Brush Name="Aluminium_1" Pow="2048">
+  </Brush>
+  <Brush Name="Aluminium_2" Pow="2048">
+  </Brush>
+  <Brush Name="Aluminium_3" Pow="2048">
+  </Brush>
+  <Brush Name="Damascus_1" Pow="2048">
+  </Brush>
+  <Brush Name="Damascus_2" Pow="2048">
+  </Brush>
+  <Brush Name="Damascus_3" Pow="2048">
+  </Brush>
+  <Brush Name="Tin_1" Pow="2048">
+  </Brush>
+  <Brush Name="Tin_2" Pow="2048">
+  </Brush>
+  <Brush Name="Tin_3" Pow="2048">
+  </Brush>
+  <Brush Name="Asphalt_1" Pow="2048">
+  </Brush>
+  <Brush Name="Asphalt_2" Pow="2048">
+  </Brush>
+  <Brush Name="Asphalt_3" Pow="2048">
+  </Brush>
+  <Brush Name="Gravel_1" Pow="2048">
+  </Brush>
+  <Brush Name="Gravel_2" Pow="2048">
+  </Brush>
+  <Brush Name="Gravel_3" Pow="2048">
+  </Brush>
+  <Brush Name="Grass_1" Pow="2048">
+  </Brush>
+  <Brush Name="Suede_1" Pow="2048">
+  </Brush>
+  <Brush Name="Iron_1" Pow="2048">
+  </Brush>
+  <Brush Name="Iron_2" Pow="2048">
+  </Brush>
+  <Brush Name="Iron_3" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness1" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness2" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness3" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness4" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness5" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness6" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness7" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness8" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness9" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness10" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness11" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness12" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness13" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness14" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness15" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness16" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness17" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness18" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness19" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness20" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness21" Pow="2048">
+  </Brush>
+  <Brush Name="Roughness22" Pow="2048">
+  </Brush>
+  <Brush Name="Tile_1" Pow="2048">
+  </Brush>
+  <Brush Name="Tile_2" Pow="2048">
+  </Brush>
+  <Brush Name="Tile_3" Pow="2048">
+  </Brush>
+  <Brush Name="Tile_4" Pow="2048">
+  </Brush>
+  <Brush Name="Tile_5" Pow="2048">
+  </Brush>
+  <Brush Name="Masonry_1" Pow="2048">
+  </Brush>
+  <Brush Name="Masonry_2" Pow="2048">
+  </Brush>
+  <Brush Name="Masonry_3" Pow="2048">
+  </Brush>
+  <Brush Name="Granite_1" Pow="2048">
+  </Brush>
+  <Brush Name="Cardboard_1" Pow="2048">
+  </Brush>
+  <Brush Name="Cardboard_2" Pow="2048">
+  </Brush>
+  <Brush Name="Cardboard_3" Pow="2048">
+  </Brush>
+  <Brush Name="Plastic_1" Pow="2048">
+  </Brush>
+  <Brush Name="Plastic_2" Pow="2048">
+  </Brush>
+  <Brush Name="Plastic_3" Pow="2048">
+  </Brush>
+  <Brush Name="Lead_1" Pow="2048">
+  </Brush>
+  <Brush Name="Lead_2" Pow="2048">
+  </Brush>
+  <Brush Name="Lead_3" Pow="2048">
+  </Brush>
+  <Brush Name="Bronze_1" Pow="2048">
+  </Brush>
+  <Brush Name="Bronze_2" Pow="2048">
+  </Brush>
+  <Brush Name="Bronze_3" Pow="2048">
+  </Brush>
+  <Brush Name="Copper_1" Pow="2048">
+  </Brush>
+  <Brush Name="Copper_2" Pow="2048">
+  </Brush>
+  <Brush Name="Copper_3" Pow="2048">
+  </Brush>
+  <Brush Name="Blood_1" Pow="1024">
+  </Brush>
+  <Brush Name="Blood_2" Pow="1024">
+  </Brush>
+  <Brush Name="Blood_3" Pow="1024">
+  </Brush>
+  <Brush Name="Blood_4" Pow="1024">
+  </Brush>
+  <Brush Name="Blood_5" Pow="1024">
+  </Brush>
+  <Brush Name="Blood_6" Pow="1024">
+  </Brush>
+  <Brush Name="Bark_1" Pow="2048">
+  </Brush>
+  <Brush Name="Bark_2" Pow="2048">
+  </Brush>
+  <Brush Name="Bark_3" Pow="2048">
+  </Brush>
+  <Brush Name="Bark_4" Pow="2048">
+  </Brush>
+  <Brush Name="Crack_1" Pow="1024">
+  </Brush>
+  <Brush Name="Carbon_1" Pow="2048">
+  </Brush>
+  <Brush Name="Carbon_2" Pow="2048">
+  </Brush>
+  <Brush Name="Carbon_3" Pow="2048">
+  </Brush>
+  <Brush Name="Steel_1" Pow="2048">
+  </Brush>
+  <Brush Name="Steel_2" Pow="2048">
+  </Brush>
+  <Brush Name="Steel_3" Pow="2048">
+  </Brush>
+  <Brush Name="Grunge_1" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_2" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_3" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_4" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_5" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_6" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_7" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_8" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_9" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_10" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_11" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_12" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_13" Pow="256">
+  </Brush>
+  <Brush Name="Cloth_1" Pow="2048">
+  </Brush>
+  <Brush Name="Cloth_2" Pow="2048">
+  </Brush>
+  <Brush Name="Cloth_3" Pow="2048">
+  </Brush>
+  <Brush Name="Gold_1" Pow="2048">
+  </Brush>
+  <Brush Name="Gold_2" Pow="2048">
+  </Brush>
+  <Brush Name="Gold_3" Pow="2048">
+  </Brush>
+  <Brush Name="Chipping_1" Pow="512">
+  </Brush>
+  <Brush Name="Chipping_2" Pow="512">
+  </Brush>
+  <Brush Name="Chipping_3" Pow="512">
+  </Brush>
+  <Brush Name="Chipping_4" Pow="512">
+  </Brush>
+  <Brush Name="Chipping_5" Pow="512">
+  </Brush>
+  <Brush Name="Rubber_1" Pow="2048">
+  </Brush>
+  <Brush Name="Rubber_2" Pow="2048">
+  </Brush>
+  <Brush Name="Rubber_3" Pow="2048">
+  </Brush>
+  <Brush Name="Silver_1" Pow="2048">
+  </Brush>
+  <Brush Name="Silver_2" Pow="2048">
+  </Brush>
+  <Brush Name="Silver_3" Pow="2048">
+  </Brush>
+  <Brush Name="Concrete_1" Pow="2048">
+  </Brush>
+  <Brush Name="Concrete_2" Pow="2048">
+  </Brush>
+  <Brush Name="Concrete_3" Pow="2048">
+  </Brush>
+  <Brush Name="Dust_1" Pow="256">
+  </Brush>
+  <Brush Name="Dust_2" Pow="256">
+  </Brush>
+  <Brush Name="Dust_3" Pow="256">
+  </Brush>
+  <Brush Name="Dust_4" Pow="256">
+  </Brush>
+  <Brush Name="Dust_5" Pow="256">
+  </Brush>
+  <Brush Name="Edge_Wear_1" Pow="128">
+  </Brush>
+  <Brush Name="Edge_Wear_2" Pow="128">
+  </Brush>
+  <Brush Name="Edge_Wear_3" Pow="128">
+  </Brush>
+  <Brush Name="Edge_Wear_4" Pow="128">
+  </Brush>
+  <Brush Name="Edge_Wear_5" Pow="128">
+  </Brush>
+  <Brush Name="Edge_Wear_6" Pow="128">
+  </Brush>
+  <Brush Name="Fingerprints_1" Pow="512">
+  </Brush>
+  <Brush Name="Fingerprints_2" Pow="512">
+  </Brush>
+  <Brush Name="Fingerprints_3" Pow="512">
+  </Brush>
+  <Brush Name="Fingerprints_4" Pow="512">
+  </Brush>
+  <Brush Name="Fingerprints_5" Pow="512">
+  </Brush>
+  <Brush Name="Fingerprints_6" Pow="512">
+  </Brush>
+  <Brush Name="Glass_1" Pow="2048">
+  </Brush>
+  <Brush Name="Glass_2" Pow="2048">
+  </Brush>
+  <Brush Name="Glass_3" Pow="2048">
+  </Brush>
+  <Brush Name="Grunge_1" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_2" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_3" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_4" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_5" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_6" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_7" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_8" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_9" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_10" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_11" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_12" Pow="256">
+  </Brush>
+  <Brush Name="Grunge_13" Pow="256">
+  </Brush>
+  <Brush Name="Hieroglyphs_1" Pow="512">
+  </Brush>
+  <Brush Name="Hieroglyphs_2" Pow="512">
+  </Brush>
+  <Brush Name="Hieroglyphs_3" Pow="512">
+  </Brush>
+  <Brush Name="Hieroglyphs_4" Pow="512">
+  </Brush>
+  <Brush Name="Hieroglyphs_5" Pow="512">
+  </Brush>
+  <Brush Name="Hieroglyphs_6" Pow="512">
+  </Brush>
+  <Brush Name="Leather_1" Pow="2048">
+  </Brush>
+  <Brush Name="Leather_2" Pow="2048">
+  </Brush>
+  <Brush Name="Leather_3" Pow="2048">
+  </Brush>
+  <Brush Name="Lichen_1" Pow="256">
+  </Brush>
+  <Brush Name="Lichen_2" Pow="256">
+  </Brush>
+  <Brush Name="Lichen_3" Pow="256">
+  </Brush>
+  <Brush Name="Lichen_4" Pow="256">
+  </Brush>
+  <Brush Name="Oil_1" Pow="512">
+  </Brush>
+  <Brush Name="Oil_2" Pow="512">
+  </Brush>
+  <Brush Name="Oil_3" Pow="512">
+  </Brush>
+  <Brush Name="Oil_4" Pow="512">
+  </Brush>
+  <Brush Name="Oil_5" Pow="512">
+  </Brush>
+  <Brush Name="Oil_6" Pow="512">
+  </Brush>
+  <Brush Name="Oil_7" Pow="512">
+  </Brush>
+  <Brush Name="Oil_8" Pow="512">
+  </Brush>
+  <Brush Name="Oil_9" Pow="512">
+  </Brush>
+  <Brush Name="Oil_10" Pow="512">
+  </Brush>
+  <Brush Name="Rust_1" Pow="256">
+  </Brush>
+  <Brush Name="Rust_2" Pow="256">
+  </Brush>
+  <Brush Name="Rust_3" Pow="256">
+  </Brush>
+  <Brush Name="Rust_4" Pow="256">
+  </Brush>
+  <Brush Name="Rust_5" Pow="256">
+  </Brush>
+  <Brush Name="Rust_6" Pow="256">
+  </Brush>
+  <Brush Name="Rust_1_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_2_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_3_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_4_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_5_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_6_s" Pow="64">
+  </Brush>
+  <Brush Name="Rust_Oxidation_1" Pow="256">
+  </Brush>
+  <Brush Name="Rust_Oxidation_2" Pow="256">
+  </Brush>
+  <Brush Name="Rust_Oxidation_3" Pow="256">
+  </Brush>
+  <Brush Name="Scales_1" Pow="2048">
+  </Brush>
+  <Brush Name="Scales_2" Pow="2048">
+  </Brush>
+  <Brush Name="Scales_3" Pow="2048">
+  </Brush>
+  <Brush Name="Scorch_1" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_2" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_3" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_4" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_5" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_6" Pow="512">
+  </Brush>
+  <Brush Name="Scorch_7" Pow="512">
+  </Brush>
+  <Brush Name="Scratch_1" Pow="256">
+  </Brush>
+  <Brush Name="Scratch_2" Pow="256">
+  </Brush>
+  <Brush Name="Steel_1" Pow="2048">
+  </Brush>
+  <Brush Name="Stone_1" Pow="2048">
+  </Brush>
+  <Brush Name="Stone_2" Pow="2048">
+  </Brush>
+  <Brush Name="Stone_3" Pow="2048">
+  </Brush>
+  <Brush Name="Wood_1" Pow="2048">
+  </Brush>
+  <Brush Name="Wood_2" Pow="2048">
+  </Brush>
+  <Brush Name="Wood_3" Pow="2048">
+  </Brush>
+  <Brush Name="Wood_4" Pow="2048">
+  </Brush>
+  <Brush Name="Wood_5" Pow="2048">
+  </Brush>
+  <Brush Name="Skin_1" Pow="2048">
+  </Brush>
+  <Brush Name="Skin_2" Pow="2048">
+  </Brush>
+  <Brush Name="Skin_3" Pow="2048">
+  </Brush>
+  <Brush Name="Moss_1" Pow="2048">
+  </Brush>
+    <Brush Name="Ash_1" Pow="2048">
+  </Brush>
+</Brushes>
